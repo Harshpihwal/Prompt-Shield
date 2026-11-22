@@ -353,8 +353,8 @@ PromptShield/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/PromptShield.git
-   cd PromptShield
+   git clone https://github.com/Harshpihwal/Prompt-Shield.git
+   cd Prompt-Shield
    ```
 
 2. **Create a virtual environment** (recommended)
